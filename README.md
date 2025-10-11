@@ -1,2 +1,3 @@
 # 1320123009-data-mining
-# Idi Rasidi
+**Nama:** Idi Rasidi 
+**NIM:** 1320123009
